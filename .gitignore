@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+__pycache__
+*.pyc
+
+# Machine Learning
+*.ipynb_checkpoints
+model/*.h5
+model/*.pkl
+data/*
+!data/*.csv
+
